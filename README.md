@@ -1,1 +1,1 @@
-# My-git-inctructions
+# My-git-instructions
